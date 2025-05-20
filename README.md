@@ -1,2 +1,2 @@
-# Practica-1
+# Practica-Todas las practicas
 Teresa Sobrevilla Vega, Practica 1
